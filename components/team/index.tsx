@@ -29,7 +29,7 @@ export function Team() {
           />
           <TeamMember
             name="Gullapelli Phaneendra"
-            role="Sustainability Director"
+            role="Co-Founder & Director"
             image="https://i.postimg.cc/5NtS8BXv/lallu-1.jpg"
             delay={0.3}
           />
